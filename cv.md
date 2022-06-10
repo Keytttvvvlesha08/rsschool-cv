@@ -24,3 +24,4 @@ alert( result );
 * Russian - native speaker.
 *  [StreamLine Language School English test result](https://test.str.by/login/index.php "StreamLine Language School English test result"): Pre-Intermediate (A2).
 * A1 I try to learn English in every possible way. I use google translate a lot.
+:)
